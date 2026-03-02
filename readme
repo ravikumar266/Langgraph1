@@ -1,0 +1,12 @@
+### install this dependencies 
+create  virtual env
+ python -m venv myenv
+
+
+  pip install langgraph
+
+
+  pip install langchain 
+
+  pip install dotenv
+  pip install langchain-google-genai
